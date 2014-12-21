@@ -32,7 +32,7 @@ require 'connect.php';
         </h2>
         <h3>by: Nauman Tanwir<br>Student Number <a href="http://www.gmail.com">114220172</a>
         </h3> 
-        This is the final assignment for CS6408 -- DreamHome Information System. Written in PHP and MySQL and  hosted in Heroku. 					        <a href="https://github.com/ntanwir10/CS6408-Database-Assignment-3-and-4">Click here</a> to get the code. Using navigation bar above to view all the functionality. 
+        This is the final assignment for CS6408 -- DreamHome Information System. Written in PHP and MySQL and  hosted in Heroku. 					        <a href="https://github.com/ntanwir10/assign-3-and-4">Click here</a> to get the code. Using navigation bar above to view all the functionality. 
         </nav>
    </div>     
 	
