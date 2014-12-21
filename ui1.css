@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+.wrapper{
+	width:65%;
+	height:90%;
+	margin:auto;
+	font-family:"Times New Roman", Times, serif;
+	font-size:16px;
+}
+
+nav ul{
+	background-color:#333;
+	color:#FFF;
+	border-radius:10px;
+	}
+
+nav ul a{ text-decoration:none;
+padding: 20px;
+color:#FFF;
+font-size:18px;
+height:40px;}
+
+nav ul a:hover {
+	color:#CCC;
+	}
